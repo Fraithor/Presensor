@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.fraithor.presensor.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.fraithor.presensor.MyBundle
 
 class MyApplicationService {
 
